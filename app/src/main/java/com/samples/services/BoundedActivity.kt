@@ -53,6 +53,7 @@ class BoundedActivity : AppCompatActivity() {
 
         button3.setOnClickListener{
             timer.setText(mBoundService.timestamp)
+            mBoundService.bindServiceTest()
         }
     }
 

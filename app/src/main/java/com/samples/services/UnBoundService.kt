@@ -7,6 +7,9 @@ import android.os.IBinder
 import android.widget.Toast
 
 import com.samples.R
+import android.media.MediaPlayer.OnCompletionListener
+import android.util.Log
+
 
 /**
  * Created by Anukool Srivastav on 12/01/18.
@@ -26,13 +29,25 @@ class UnBoundService : Service() {
         Toast.makeText(this, "Service Created", Toast.LENGTH_LONG).show()
 
         mediaPlayer = MediaPlayer.create(this, R.raw.intro)
+
+        mediaPlayer.setOnCompletionListener(MediaPlayer.OnCompletionListener {
+            // override fun
+            //it // this is MediaPlayer type
+            Log.d("UnBoundService","setOnCompletionListener OnCompletionListener called")
+            // do other task
+            stopSelf()
+        })
     }
 
     override fun onStartCommand(intent: Intent, flags: Int, startId: Int): Int {
 
         Toast.makeText(this, "Service Started", Toast.LENGTH_LONG).show()
         mediaPlayer.start()
-
+//        val cnt = 100
+//        while (true) {
+//            Log.d("Service", "onStartCommand -----------------")
+//            Thread.sleep(1000L)
+//        }
 
         return super.onStartCommand(intent, flags, startId)
     }

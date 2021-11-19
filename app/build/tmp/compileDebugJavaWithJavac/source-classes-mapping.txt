@@ -1,0 +1,6 @@
+com/samples/BuildConfig.java
+ com.samples.BuildConfig
+com/samples/services/foreground/Constants.java
+ com.samples.services.foreground.Constants
+ com.samples.services.foreground.Constants$ACTION
+ com.samples.services.foreground.Constants$NOTIFICATION_ID

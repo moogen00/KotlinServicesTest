@@ -7,6 +7,7 @@ import android.os.IBinder
 import android.os.SystemClock
 import android.util.Log
 import android.widget.Chronometer
+import android.widget.Toast
 
 /**
  * Created by Anukool Srivastav on 12/01/18.
@@ -59,6 +60,9 @@ class BoundService : Service() {
         return super.onUnbind(intent)
     }
 
+    fun bindServiceTest() {
+        Toast.makeText(this, "BoundService bindServicTest", Toast.LENGTH_LONG).show()
+    }
 
     override fun onDestroy() {
         Log.v("BoundServices :  ", "onDestroy")

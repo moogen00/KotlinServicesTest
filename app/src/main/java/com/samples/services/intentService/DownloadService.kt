@@ -7,7 +7,6 @@ import android.os.Bundle
 import android.os.ResultReceiver
 import android.text.TextUtils
 import android.util.Log
-import org.json.JSONArray
 import org.json.JSONException
 import org.json.JSONObject
 import java.io.BufferedInputStream
@@ -35,7 +34,7 @@ class DownloadService : IntentService(DownloadService::class.java.name) {
 
         if (!TextUtils.isEmpty(url)) {
             /* Update UI: Download Service is Running */
-            receiver.send(STATUS_RUNNING, Bundle.EMPTY)
+            if (receiver != null) receiver.send(STATUS_RUNNING, Bundle.EMPTY)
 
             try {
                 val results = downloadData(url)
@@ -43,13 +42,13 @@ class DownloadService : IntentService(DownloadService::class.java.name) {
                 /* Sending result back to activity */
                 if (results.isNotEmpty()) {
                     bundle.putStringArray("result", results)
-                    receiver.send(STATUS_FINISHED, bundle)
+                    if (receiver != null)receiver.send(STATUS_FINISHED, bundle)
                 }
             } catch (e: Exception) {
 
                 /* Sending error message back to activity */
                 bundle.putString(Intent.EXTRA_TEXT, e.toString())
-                receiver.send(STATUS_ERROR, bundle)
+                if (receiver != null)receiver.send(STATUS_ERROR, bundle)
             }
 
         }
@@ -58,7 +57,7 @@ class DownloadService : IntentService(DownloadService::class.java.name) {
     }
 
     @Throws(IOException::class, DownloadException::class)
-    private fun downloadData(requestUrl: String): Array<String?> {
+    private fun downloadData(requestUrl: String?): Array<String?> {
         var inputStream: InputStream? = null
 
         var urlConnection: HttpURLConnection? = null

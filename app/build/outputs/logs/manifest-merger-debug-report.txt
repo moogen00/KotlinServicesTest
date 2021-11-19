@@ -1,0 +1,198 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /media/kyle/DATA/kyle/Project/AndroidStudioProjects/KotlinServices/app/src/main/AndroidManifest.xml:2:1-43:12
+INJECTED from /media/kyle/DATA/kyle/Project/AndroidStudioProjects/KotlinServices/app/src/main/AndroidManifest.xml:2:1-43:12
+INJECTED from /media/kyle/DATA/kyle/Project/AndroidStudioProjects/KotlinServices/app/src/main/AndroidManifest.xml:2:1-43:12
+INJECTED from /media/kyle/DATA/kyle/Project/AndroidStudioProjects/KotlinServices/app/src/main/AndroidManifest.xml:2:1-43:12
+MERGED from [com.android.support.constraint:constraint-layout:2.0.4] /home/kyle/.gradle/caches/transforms-3/89f63daeb796366c21d5e99a4e4436e0/transformed/constraint-layout-2.0.4/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/kyle/.gradle/caches/transforms-3/7f9b39f8f75ffad42e16617090f2e901/transformed/appcompat-v7-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /home/kyle/.gradle/caches/transforms-3/fde842ba8eee80c3428ed6a0465a7b87/transformed/support-fragment-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/kyle/.gradle/caches/transforms-3/007f716bcadec74b05f9fde02fd4f672/transformed/animated-vector-drawable-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/kyle/.gradle/caches/transforms-3/154f6d9ab49e8721b554ea3273b8cb36/transformed/support-core-ui-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/kyle/.gradle/caches/transforms-3/b83118feba3b1edd0d11e300392b1882/transformed/support-core-utils-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/kyle/.gradle/caches/transforms-3/679613f0e1fae3361aeef37c21c6df4e/transformed/support-vector-drawable-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /home/kyle/.gradle/caches/transforms-3/28b7b8322192d745063b0cb30a567651/transformed/loader-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /home/kyle/.gradle/caches/transforms-3/47483202cecf0a7bee329b2ee13199ac/transformed/viewpager-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/kyle/.gradle/caches/transforms-3/d5874e050417f50d3b3c9a496b0a4a26/transformed/coordinatorlayout-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/kyle/.gradle/caches/transforms-3/01fc58003573a3f3eb22d42d7bff59f7/transformed/drawerlayout-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/kyle/.gradle/caches/transforms-3/6076744d166d44d6091f4c2519038235/transformed/slidingpanelayout-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /home/kyle/.gradle/caches/transforms-3/74e2cfda329891780dc95bb34c95ca04/transformed/customview-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/kyle/.gradle/caches/transforms-3/c5c37b8f22f471533510495742306e5d/transformed/swiperefreshlayout-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/kyle/.gradle/caches/transforms-3/771796e7153128849882acdb4b5098e9/transformed/asynclayoutinflater-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /home/kyle/.gradle/caches/transforms-3/d915617896c25a0b699fe2f7125e2749/transformed/support-compat-28.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/kyle/.gradle/caches/transforms-3/338c32bebe39e19abdfd330ce6a2132c/transformed/versionedparcelable-28.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/kyle/.gradle/caches/transforms-3/5b890829a156f9bbb8249c1bd33aa64e/transformed/cursoradapter-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/kyle/.gradle/caches/transforms-3/c501607be64863f85ed2a9b1acc11759/transformed/runtime-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /home/kyle/.gradle/caches/transforms-3/f2673b79ff1179456741e8f718ce17bf/transformed/documentfile-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/kyle/.gradle/caches/transforms-3/1eec7762d4fdcde238eab34245a64f0c/transformed/localbroadcastmanager-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /home/kyle/.gradle/caches/transforms-3/12d19bae9879cd307c33b878b6439a7b/transformed/print-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/kyle/.gradle/caches/transforms-3/23529b5aed68e1259a175af005141aa6/transformed/viewmodel-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/kyle/.gradle/caches/transforms-3/3475670359e35af87da271880a4fa56e/transformed/livedata-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/kyle/.gradle/caches/transforms-3/1b5c526dad99fcfe74ac9ff923ab99bd/transformed/livedata-core-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /home/kyle/.gradle/caches/transforms-3/ee23a4b212ed00388bcb6ab6dacf4825/transformed/runtime-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /home/kyle/.gradle/caches/transforms-3/c138fb590dc329a29435913c40b56223/transformed/interpolator-28.0.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /media/kyle/DATA/kyle/Project/AndroidStudioProjects/KotlinServices/app/src/main/AndroidManifest.xml:2:1-43:12
+INJECTED from /media/kyle/DATA/kyle/Project/AndroidStudioProjects/KotlinServices/app/src/main/AndroidManifest.xml:2:1-43:12
+INJECTED from /media/kyle/DATA/kyle/Project/AndroidStudioProjects/KotlinServices/app/src/main/AndroidManifest.xml:2:1-43:12
+	package
+		ADDED from /media/kyle/DATA/kyle/Project/AndroidStudioProjects/KotlinServices/app/src/main/AndroidManifest.xml:3:5-26
+		INJECTED from /media/kyle/DATA/kyle/Project/AndroidStudioProjects/KotlinServices/app/src/main/AndroidManifest.xml
+		INJECTED from /media/kyle/DATA/kyle/Project/AndroidStudioProjects/KotlinServices/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /media/kyle/DATA/kyle/Project/AndroidStudioProjects/KotlinServices/app/src/main/AndroidManifest.xml
+		ADDED from /media/kyle/DATA/kyle/Project/AndroidStudioProjects/KotlinServices/app/src/main/AndroidManifest.xml:2:1-43:12
+		INJECTED from /media/kyle/DATA/kyle/Project/AndroidStudioProjects/KotlinServices/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /media/kyle/DATA/kyle/Project/AndroidStudioProjects/KotlinServices/app/src/main/AndroidManifest.xml
+		ADDED from /media/kyle/DATA/kyle/Project/AndroidStudioProjects/KotlinServices/app/src/main/AndroidManifest.xml:2:1-43:12
+		INJECTED from /media/kyle/DATA/kyle/Project/AndroidStudioProjects/KotlinServices/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /media/kyle/DATA/kyle/Project/AndroidStudioProjects/KotlinServices/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /media/kyle/DATA/kyle/Project/AndroidStudioProjects/KotlinServices/app/src/main/AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from /media/kyle/DATA/kyle/Project/AndroidStudioProjects/KotlinServices/app/src/main/AndroidManifest.xml:5:22-64
+application
+ADDED from /media/kyle/DATA/kyle/Project/AndroidStudioProjects/KotlinServices/app/src/main/AndroidManifest.xml:7:5-41:19
+MERGED from [com.android.support.constraint:constraint-layout:2.0.4] /home/kyle/.gradle/caches/transforms-3/89f63daeb796366c21d5e99a4e4436e0/transformed/constraint-layout-2.0.4/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:2.0.4] /home/kyle/.gradle/caches/transforms-3/89f63daeb796366c21d5e99a4e4436e0/transformed/constraint-layout-2.0.4/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /home/kyle/.gradle/caches/transforms-3/d915617896c25a0b699fe2f7125e2749/transformed/support-compat-28.0.0/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /home/kyle/.gradle/caches/transforms-3/d915617896c25a0b699fe2f7125e2749/transformed/support-compat-28.0.0/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/kyle/.gradle/caches/transforms-3/338c32bebe39e19abdfd330ce6a2132c/transformed/versionedparcelable-28.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/kyle/.gradle/caches/transforms-3/338c32bebe39e19abdfd330ce6a2132c/transformed/versionedparcelable-28.0.0/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /home/kyle/.gradle/caches/transforms-3/d915617896c25a0b699fe2f7125e2749/transformed/support-compat-28.0.0/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /media/kyle/DATA/kyle/Project/AndroidStudioProjects/KotlinServices/app/src/main/AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from /media/kyle/DATA/kyle/Project/AndroidStudioProjects/KotlinServices/app/src/main/AndroidManifest.xml:10:9-41
+	android:roundIcon
+		ADDED from /media/kyle/DATA/kyle/Project/AndroidStudioProjects/KotlinServices/app/src/main/AndroidManifest.xml:11:9-54
+	android:icon
+		ADDED from /media/kyle/DATA/kyle/Project/AndroidStudioProjects/KotlinServices/app/src/main/AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from /media/kyle/DATA/kyle/Project/AndroidStudioProjects/KotlinServices/app/src/main/AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from /media/kyle/DATA/kyle/Project/AndroidStudioProjects/KotlinServices/app/src/main/AndroidManifest.xml:13:9-40
+activity#com.samples.services.MainActivity
+ADDED from /media/kyle/DATA/kyle/Project/AndroidStudioProjects/KotlinServices/app/src/main/AndroidManifest.xml:14:9-20:20
+	android:name
+		ADDED from /media/kyle/DATA/kyle/Project/AndroidStudioProjects/KotlinServices/app/src/main/AndroidManifest.xml:14:19-56
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /media/kyle/DATA/kyle/Project/AndroidStudioProjects/KotlinServices/app/src/main/AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from /media/kyle/DATA/kyle/Project/AndroidStudioProjects/KotlinServices/app/src/main/AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from /media/kyle/DATA/kyle/Project/AndroidStudioProjects/KotlinServices/app/src/main/AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /media/kyle/DATA/kyle/Project/AndroidStudioProjects/KotlinServices/app/src/main/AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from /media/kyle/DATA/kyle/Project/AndroidStudioProjects/KotlinServices/app/src/main/AndroidManifest.xml:18:27-74
+activity#com.samples.services.BoundedActivity
+ADDED from /media/kyle/DATA/kyle/Project/AndroidStudioProjects/KotlinServices/app/src/main/AndroidManifest.xml:21:9-23:45
+	android:label
+		ADDED from /media/kyle/DATA/kyle/Project/AndroidStudioProjects/KotlinServices/app/src/main/AndroidManifest.xml:23:13-42
+	android:name
+		ADDED from /media/kyle/DATA/kyle/Project/AndroidStudioProjects/KotlinServices/app/src/main/AndroidManifest.xml:22:13-53
+activity#com.samples.services.UnBoundedActivity
+ADDED from /media/kyle/DATA/kyle/Project/AndroidStudioProjects/KotlinServices/app/src/main/AndroidManifest.xml:24:9-26:47
+	android:label
+		ADDED from /media/kyle/DATA/kyle/Project/AndroidStudioProjects/KotlinServices/app/src/main/AndroidManifest.xml:26:13-44
+	android:name
+		ADDED from /media/kyle/DATA/kyle/Project/AndroidStudioProjects/KotlinServices/app/src/main/AndroidManifest.xml:25:13-55
+service#com.samples.services.UnBoundService
+ADDED from /media/kyle/DATA/kyle/Project/AndroidStudioProjects/KotlinServices/app/src/main/AndroidManifest.xml:28:9-30:38
+	android:enabled
+		ADDED from /media/kyle/DATA/kyle/Project/AndroidStudioProjects/KotlinServices/app/src/main/AndroidManifest.xml:30:13-35
+	android:name
+		ADDED from /media/kyle/DATA/kyle/Project/AndroidStudioProjects/KotlinServices/app/src/main/AndroidManifest.xml:29:13-52
+service#com.samples.services.BoundService
+ADDED from /media/kyle/DATA/kyle/Project/AndroidStudioProjects/KotlinServices/app/src/main/AndroidManifest.xml:31:9-33:38
+	android:enabled
+		ADDED from /media/kyle/DATA/kyle/Project/AndroidStudioProjects/KotlinServices/app/src/main/AndroidManifest.xml:33:13-35
+	android:name
+		ADDED from /media/kyle/DATA/kyle/Project/AndroidStudioProjects/KotlinServices/app/src/main/AndroidManifest.xml:32:13-50
+activity#com.samples.services.intentService.IntentServiceActivity
+ADDED from /media/kyle/DATA/kyle/Project/AndroidStudioProjects/KotlinServices/app/src/main/AndroidManifest.xml:35:9-82
+	android:name
+		ADDED from /media/kyle/DATA/kyle/Project/AndroidStudioProjects/KotlinServices/app/src/main/AndroidManifest.xml:35:19-79
+service#com.samples.services.intentService.DownloadService
+ADDED from /media/kyle/DATA/kyle/Project/AndroidStudioProjects/KotlinServices/app/src/main/AndroidManifest.xml:36:9-75
+	android:name
+		ADDED from /media/kyle/DATA/kyle/Project/AndroidStudioProjects/KotlinServices/app/src/main/AndroidManifest.xml:36:18-72
+activity#com.samples.services.foreground.ForegroundActivity
+ADDED from /media/kyle/DATA/kyle/Project/AndroidStudioProjects/KotlinServices/app/src/main/AndroidManifest.xml:39:9-75
+	android:name
+		ADDED from /media/kyle/DATA/kyle/Project/AndroidStudioProjects/KotlinServices/app/src/main/AndroidManifest.xml:39:19-73
+service#com.samples.services.foreground.ForegroundService
+ADDED from /media/kyle/DATA/kyle/Project/AndroidStudioProjects/KotlinServices/app/src/main/AndroidManifest.xml:40:9-74
+	android:name
+		ADDED from /media/kyle/DATA/kyle/Project/AndroidStudioProjects/KotlinServices/app/src/main/AndroidManifest.xml:40:18-71
+uses-sdk
+INJECTED from /media/kyle/DATA/kyle/Project/AndroidStudioProjects/KotlinServices/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /media/kyle/DATA/kyle/Project/AndroidStudioProjects/KotlinServices/app/src/main/AndroidManifest.xml
+INJECTED from /media/kyle/DATA/kyle/Project/AndroidStudioProjects/KotlinServices/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support.constraint:constraint-layout:2.0.4] /home/kyle/.gradle/caches/transforms-3/89f63daeb796366c21d5e99a4e4436e0/transformed/constraint-layout-2.0.4/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:2.0.4] /home/kyle/.gradle/caches/transforms-3/89f63daeb796366c21d5e99a4e4436e0/transformed/constraint-layout-2.0.4/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/kyle/.gradle/caches/transforms-3/7f9b39f8f75ffad42e16617090f2e901/transformed/appcompat-v7-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/kyle/.gradle/caches/transforms-3/7f9b39f8f75ffad42e16617090f2e901/transformed/appcompat-v7-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/kyle/.gradle/caches/transforms-3/fde842ba8eee80c3428ed6a0465a7b87/transformed/support-fragment-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/kyle/.gradle/caches/transforms-3/fde842ba8eee80c3428ed6a0465a7b87/transformed/support-fragment-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/kyle/.gradle/caches/transforms-3/007f716bcadec74b05f9fde02fd4f672/transformed/animated-vector-drawable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/kyle/.gradle/caches/transforms-3/007f716bcadec74b05f9fde02fd4f672/transformed/animated-vector-drawable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/kyle/.gradle/caches/transforms-3/154f6d9ab49e8721b554ea3273b8cb36/transformed/support-core-ui-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/kyle/.gradle/caches/transforms-3/154f6d9ab49e8721b554ea3273b8cb36/transformed/support-core-ui-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/kyle/.gradle/caches/transforms-3/b83118feba3b1edd0d11e300392b1882/transformed/support-core-utils-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/kyle/.gradle/caches/transforms-3/b83118feba3b1edd0d11e300392b1882/transformed/support-core-utils-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/kyle/.gradle/caches/transforms-3/679613f0e1fae3361aeef37c21c6df4e/transformed/support-vector-drawable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/kyle/.gradle/caches/transforms-3/679613f0e1fae3361aeef37c21c6df4e/transformed/support-vector-drawable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/kyle/.gradle/caches/transforms-3/28b7b8322192d745063b0cb30a567651/transformed/loader-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/kyle/.gradle/caches/transforms-3/28b7b8322192d745063b0cb30a567651/transformed/loader-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/kyle/.gradle/caches/transforms-3/47483202cecf0a7bee329b2ee13199ac/transformed/viewpager-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/kyle/.gradle/caches/transforms-3/47483202cecf0a7bee329b2ee13199ac/transformed/viewpager-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/kyle/.gradle/caches/transforms-3/d5874e050417f50d3b3c9a496b0a4a26/transformed/coordinatorlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/kyle/.gradle/caches/transforms-3/d5874e050417f50d3b3c9a496b0a4a26/transformed/coordinatorlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/kyle/.gradle/caches/transforms-3/01fc58003573a3f3eb22d42d7bff59f7/transformed/drawerlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/kyle/.gradle/caches/transforms-3/01fc58003573a3f3eb22d42d7bff59f7/transformed/drawerlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/kyle/.gradle/caches/transforms-3/6076744d166d44d6091f4c2519038235/transformed/slidingpanelayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/kyle/.gradle/caches/transforms-3/6076744d166d44d6091f4c2519038235/transformed/slidingpanelayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/kyle/.gradle/caches/transforms-3/74e2cfda329891780dc95bb34c95ca04/transformed/customview-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/kyle/.gradle/caches/transforms-3/74e2cfda329891780dc95bb34c95ca04/transformed/customview-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/kyle/.gradle/caches/transforms-3/c5c37b8f22f471533510495742306e5d/transformed/swiperefreshlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/kyle/.gradle/caches/transforms-3/c5c37b8f22f471533510495742306e5d/transformed/swiperefreshlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/kyle/.gradle/caches/transforms-3/771796e7153128849882acdb4b5098e9/transformed/asynclayoutinflater-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/kyle/.gradle/caches/transforms-3/771796e7153128849882acdb4b5098e9/transformed/asynclayoutinflater-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/kyle/.gradle/caches/transforms-3/d915617896c25a0b699fe2f7125e2749/transformed/support-compat-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/kyle/.gradle/caches/transforms-3/d915617896c25a0b699fe2f7125e2749/transformed/support-compat-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/kyle/.gradle/caches/transforms-3/338c32bebe39e19abdfd330ce6a2132c/transformed/versionedparcelable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/kyle/.gradle/caches/transforms-3/338c32bebe39e19abdfd330ce6a2132c/transformed/versionedparcelable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/kyle/.gradle/caches/transforms-3/5b890829a156f9bbb8249c1bd33aa64e/transformed/cursoradapter-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/kyle/.gradle/caches/transforms-3/5b890829a156f9bbb8249c1bd33aa64e/transformed/cursoradapter-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/kyle/.gradle/caches/transforms-3/c501607be64863f85ed2a9b1acc11759/transformed/runtime-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/kyle/.gradle/caches/transforms-3/c501607be64863f85ed2a9b1acc11759/transformed/runtime-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/kyle/.gradle/caches/transforms-3/f2673b79ff1179456741e8f718ce17bf/transformed/documentfile-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/kyle/.gradle/caches/transforms-3/f2673b79ff1179456741e8f718ce17bf/transformed/documentfile-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/kyle/.gradle/caches/transforms-3/1eec7762d4fdcde238eab34245a64f0c/transformed/localbroadcastmanager-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/kyle/.gradle/caches/transforms-3/1eec7762d4fdcde238eab34245a64f0c/transformed/localbroadcastmanager-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/kyle/.gradle/caches/transforms-3/12d19bae9879cd307c33b878b6439a7b/transformed/print-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/kyle/.gradle/caches/transforms-3/12d19bae9879cd307c33b878b6439a7b/transformed/print-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/kyle/.gradle/caches/transforms-3/23529b5aed68e1259a175af005141aa6/transformed/viewmodel-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/kyle/.gradle/caches/transforms-3/23529b5aed68e1259a175af005141aa6/transformed/viewmodel-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/kyle/.gradle/caches/transforms-3/3475670359e35af87da271880a4fa56e/transformed/livedata-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/kyle/.gradle/caches/transforms-3/3475670359e35af87da271880a4fa56e/transformed/livedata-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/kyle/.gradle/caches/transforms-3/1b5c526dad99fcfe74ac9ff923ab99bd/transformed/livedata-core-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/kyle/.gradle/caches/transforms-3/1b5c526dad99fcfe74ac9ff923ab99bd/transformed/livedata-core-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/kyle/.gradle/caches/transforms-3/ee23a4b212ed00388bcb6ab6dacf4825/transformed/runtime-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/kyle/.gradle/caches/transforms-3/ee23a4b212ed00388bcb6ab6dacf4825/transformed/runtime-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/kyle/.gradle/caches/transforms-3/c138fb590dc329a29435913c40b56223/transformed/interpolator-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/kyle/.gradle/caches/transforms-3/c138fb590dc329a29435913c40b56223/transformed/interpolator-28.0.0/AndroidManifest.xml:20:5-44
+INJECTED from /media/kyle/DATA/kyle/Project/AndroidStudioProjects/KotlinServices/app/src/main/AndroidManifest.xml
+INJECTED from /media/kyle/DATA/kyle/Project/AndroidStudioProjects/KotlinServices/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /media/kyle/DATA/kyle/Project/AndroidStudioProjects/KotlinServices/app/src/main/AndroidManifest.xml
+		ADDED from /media/kyle/DATA/kyle/Project/AndroidStudioProjects/KotlinServices/app/src/main/AndroidManifest.xml
+		INJECTED from /media/kyle/DATA/kyle/Project/AndroidStudioProjects/KotlinServices/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /media/kyle/DATA/kyle/Project/AndroidStudioProjects/KotlinServices/app/src/main/AndroidManifest.xml
+		ADDED from /media/kyle/DATA/kyle/Project/AndroidStudioProjects/KotlinServices/app/src/main/AndroidManifest.xml
+		INJECTED from /media/kyle/DATA/kyle/Project/AndroidStudioProjects/KotlinServices/app/src/main/AndroidManifest.xml

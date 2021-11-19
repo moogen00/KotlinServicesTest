@@ -1,0 +1,114 @@
+[
+    {
+        "merged": "/media/kyle/DATA/kyle/Project/AndroidStudioProjects/KotlinServices/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/media/kyle/DATA/kyle/Project/AndroidStudioProjects/KotlinServices/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/media/kyle/DATA/kyle/Project/AndroidStudioProjects/KotlinServices/app/build/intermediates/merged_res/debug/drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "/media/kyle/DATA/kyle/Project/AndroidStudioProjects/KotlinServices/app/build/generated/res/pngs/debug/drawable-ldpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/media/kyle/DATA/kyle/Project/AndroidStudioProjects/KotlinServices/app/build/intermediates/merged_res/debug/drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "/media/kyle/DATA/kyle/Project/AndroidStudioProjects/KotlinServices/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/media/kyle/DATA/kyle/Project/AndroidStudioProjects/KotlinServices/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/media/kyle/DATA/kyle/Project/AndroidStudioProjects/KotlinServices/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/media/kyle/DATA/kyle/Project/AndroidStudioProjects/KotlinServices/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/media/kyle/DATA/kyle/Project/AndroidStudioProjects/KotlinServices/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/media/kyle/DATA/kyle/Project/AndroidStudioProjects/KotlinServices/app/build/intermediates/merged_res/debug/layout_activity_unbound.xml.flat",
+        "source": "/media/kyle/DATA/kyle/Project/AndroidStudioProjects/KotlinServices/app/src/main/res/layout/activity_unbound.xml"
+    },
+    {
+        "merged": "/media/kyle/DATA/kyle/Project/AndroidStudioProjects/KotlinServices/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "/media/kyle/DATA/kyle/Project/AndroidStudioProjects/KotlinServices/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/media/kyle/DATA/kyle/Project/AndroidStudioProjects/KotlinServices/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/media/kyle/DATA/kyle/Project/AndroidStudioProjects/KotlinServices/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/media/kyle/DATA/kyle/Project/AndroidStudioProjects/KotlinServices/app/build/intermediates/merged_res/debug/layout_activity_notification.xml.flat",
+        "source": "/media/kyle/DATA/kyle/Project/AndroidStudioProjects/KotlinServices/app/src/main/res/layout/activity_notification.xml"
+    },
+    {
+        "merged": "/media/kyle/DATA/kyle/Project/AndroidStudioProjects/KotlinServices/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/media/kyle/DATA/kyle/Project/AndroidStudioProjects/KotlinServices/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/media/kyle/DATA/kyle/Project/AndroidStudioProjects/KotlinServices/app/build/intermediates/merged_res/debug/layout_activity_main.xml.flat",
+        "source": "/media/kyle/DATA/kyle/Project/AndroidStudioProjects/KotlinServices/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/media/kyle/DATA/kyle/Project/AndroidStudioProjects/KotlinServices/app/build/intermediates/merged_res/debug/drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "/media/kyle/DATA/kyle/Project/AndroidStudioProjects/KotlinServices/app/build/generated/res/pngs/debug/drawable-mdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/media/kyle/DATA/kyle/Project/AndroidStudioProjects/KotlinServices/app/build/intermediates/merged_res/debug/drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "/media/kyle/DATA/kyle/Project/AndroidStudioProjects/KotlinServices/app/build/generated/res/pngs/debug/drawable-hdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/media/kyle/DATA/kyle/Project/AndroidStudioProjects/KotlinServices/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/media/kyle/DATA/kyle/Project/AndroidStudioProjects/KotlinServices/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/media/kyle/DATA/kyle/Project/AndroidStudioProjects/KotlinServices/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/media/kyle/DATA/kyle/Project/AndroidStudioProjects/KotlinServices/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/media/kyle/DATA/kyle/Project/AndroidStudioProjects/KotlinServices/app/build/intermediates/merged_res/debug/raw_intro.mp3.flat",
+        "source": "/media/kyle/DATA/kyle/Project/AndroidStudioProjects/KotlinServices/app/src/main/res/raw/intro.mp3"
+    },
+    {
+        "merged": "/media/kyle/DATA/kyle/Project/AndroidStudioProjects/KotlinServices/app/build/intermediates/merged_res/debug/layout_activity_intent_service.xml.flat",
+        "source": "/media/kyle/DATA/kyle/Project/AndroidStudioProjects/KotlinServices/app/src/main/res/layout/activity_intent_service.xml"
+    },
+    {
+        "merged": "/media/kyle/DATA/kyle/Project/AndroidStudioProjects/KotlinServices/app/build/intermediates/merged_res/debug/drawable_ic_launcher.png.flat",
+        "source": "/media/kyle/DATA/kyle/Project/AndroidStudioProjects/KotlinServices/app/src/main/res/drawable/ic_launcher.png"
+    },
+    {
+        "merged": "/media/kyle/DATA/kyle/Project/AndroidStudioProjects/KotlinServices/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/media/kyle/DATA/kyle/Project/AndroidStudioProjects/KotlinServices/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/media/kyle/DATA/kyle/Project/AndroidStudioProjects/KotlinServices/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/media/kyle/DATA/kyle/Project/AndroidStudioProjects/KotlinServices/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/media/kyle/DATA/kyle/Project/AndroidStudioProjects/KotlinServices/app/build/intermediates/merged_res/debug/drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "/media/kyle/DATA/kyle/Project/AndroidStudioProjects/KotlinServices/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/media/kyle/DATA/kyle/Project/AndroidStudioProjects/KotlinServices/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/media/kyle/DATA/kyle/Project/AndroidStudioProjects/KotlinServices/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/media/kyle/DATA/kyle/Project/AndroidStudioProjects/KotlinServices/app/build/intermediates/merged_res/debug/layout_activity_foreground.xml.flat",
+        "source": "/media/kyle/DATA/kyle/Project/AndroidStudioProjects/KotlinServices/app/src/main/res/layout/activity_foreground.xml"
+    },
+    {
+        "merged": "/media/kyle/DATA/kyle/Project/AndroidStudioProjects/KotlinServices/app/build/intermediates/merged_res/debug/layout_activity_bound.xml.flat",
+        "source": "/media/kyle/DATA/kyle/Project/AndroidStudioProjects/KotlinServices/app/src/main/res/layout/activity_bound.xml"
+    },
+    {
+        "merged": "/media/kyle/DATA/kyle/Project/AndroidStudioProjects/KotlinServices/app/build/intermediates/merged_res/debug/drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "/media/kyle/DATA/kyle/Project/AndroidStudioProjects/KotlinServices/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/media/kyle/DATA/kyle/Project/AndroidStudioProjects/KotlinServices/app/build/intermediates/merged_res/debug/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "/media/kyle/DATA/kyle/Project/AndroidStudioProjects/KotlinServices/app/build/generated/res/pngs/debug/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/media/kyle/DATA/kyle/Project/AndroidStudioProjects/KotlinServices/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/media/kyle/DATA/kyle/Project/AndroidStudioProjects/KotlinServices/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/media/kyle/DATA/kyle/Project/AndroidStudioProjects/KotlinServices/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/media/kyle/DATA/kyle/Project/AndroidStudioProjects/KotlinServices/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    }
+]
